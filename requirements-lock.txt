@@ -1,0 +1,7 @@
+cffi==2.1.1
+cramjam==2.12.1
+dfindexeddb==20260210
+pycparser==3.0
+PyNaCl==1.6.2
+python-snappy==0.7.3
+zstd==1.5.7.2
